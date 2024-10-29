@@ -27,7 +27,7 @@ The Navigation API is a RESTful service designed to provide route navigation fea
 
 - Node.js (version)
 - NPM or Yarn
-- A database (SQL)
+- A database (SQL in memory is being used for initial version)
 
 ### Installation
 
